@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Someone Who wants to be best at what I'm doing</h1>
 <h3 align="center">A passionate All Round developer from India...</h3>
 
-- 👨‍💻 All of my projects are available at [https://port-folio-main-one.vercel.app/](https://port-folio-main-one.vercel.app/)
+- 👨‍💻 My Porfolio for now [https://port-folio-main-one.vercel.app/](https://port-folio-main-one.vercel.app/)
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">

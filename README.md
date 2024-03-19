@@ -2,7 +2,7 @@
 <h3 align="center">A passionate All Round developer from India...</h3>
 
 - 👨‍💻 My Porfolio for now [https://port-folio-main-one.vercel.app/](https://port-folio-main-one.vercel.app/)
-
+- :smiley_cat: Fun Fact:-Climbed ABC Mountain in Nepal 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ojas-meshram-3414bb249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ojas-meshram-3414bb249/" height="30" width="40" /></a>
